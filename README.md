@@ -9,7 +9,7 @@ Resumo da assembleia registrada em 12/11/2026, com decisões, gestão eleita, or
 
 As transcrições podem conter falhas de reconhecimento. Os principais nomes, valores e datas do resumo foram conferidos nas telas da assembleia. Há um intervalo de aproximadamente 3min35s entre as gravações.
 
-Os vídeos e áudios não fazem parte deste repositório. A imagem de referência foi extraída da apresentação exibida na assembleia.
+Somente as duas versões de vídeo com tarjas são publicadas em `assets/videos/`, acompanhadas de legendas automáticas. Os arquivos originais, sem tarjas, não fazem parte deste repositório. As câmeras e identificações visuais são ocultadas; o áudio original é mantido. A imagem de referência foi extraída da apresentação exibida na assembleia.
 
 ## Publicação
 
