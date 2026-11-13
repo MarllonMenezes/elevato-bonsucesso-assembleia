@@ -8,5 +8,5 @@
 *.m4a
 
 # Apenas as versões revisadas com tarjas podem ser publicadas.
-!/assets/videos/video_1_com_tarjas.mp4
+!/assets/videos/video_1_tarjas_revisadas.mp4
 !/assets/videos/video_2_com_tarjas.mp4
