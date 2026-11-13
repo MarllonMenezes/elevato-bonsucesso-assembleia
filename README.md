@@ -2,6 +2,7 @@
 
 Resumo da assembleia registrada em 12/11/2026, com decisões, gestão eleita, orçamento e orientações aos moradores.
 
+- `assets/prints/`: oito recortes das gravações, com votações, orçamento, cotas, vencimentos e entrega das chaves.
 - `index.html`: página com imagem ilustrativa incorporada e layout responsivo.
 - `transcricao_video_1.txt`: transcrição automática da primeira gravação.
 - `transcricao_video_2.txt`: transcrição automática da segunda gravação.
